@@ -1,0 +1,5 @@
+F:\VS代码\SQLIntruder\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\VS代码\SQLIntruder\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\VS代码\SQLIntruder\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\VS代码\SQLIntruder\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\VS代码\SQLIntruder\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

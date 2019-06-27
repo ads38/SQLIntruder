@@ -1,0 +1,8 @@
+F:\VS代码\SQLIntruder\SQLIntruder\obj\Debug\SQLIntruder.exe
+F:\VS代码\SQLIntruder\SQLIntruder\obj\Debug\SQLIntruder.pdb
+F:\VS代码\SQLIntruder\SQLIntruder\bin\Debug\SQLIntruder.exe
+F:\VS代码\SQLIntruder\SQLIntruder\bin\Debug\SQLIntruder.pdb
+F:\VS代码\SQLIntruder\SQLIntruder\obj\Debug\SQLIntruder.mainFrm.resources
+F:\VS代码\SQLIntruder\SQLIntruder\obj\Debug\SQLIntruder.Properties.Resources.resources
+F:\VS代码\SQLIntruder\SQLIntruder\obj\Debug\SQLIntruder.csproj.GenerateResource.Cache
+F:\VS代码\SQLIntruder\SQLIntruder\obj\Debug\SQLIntruder.csprojResolveAssemblyReference.cache
